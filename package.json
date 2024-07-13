@@ -12,11 +12,12 @@
   "author": "Cody Koeninger <ckoeninger@cloudflare.com>",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "^1.18.2",
     "@babel/cli": "^7.21.0",
-    "@babel/core": "^7.8.4"
+    "@babel/core": "^7.8.4",
+    "prettier": "^1.18.2"
   },
   "dependencies": {
-    "babel-preset-php": "^2.0.0"
+    "babel-preset-php": "^2.0.0",
+    "wrangler": "^3.64.0"
   }
 }

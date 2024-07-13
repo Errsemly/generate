@@ -1,4 +1,10 @@
-# PHP hello world for Cloudflare Workers
+# إرسم لي - مشروع توليد الصور باللغة العربية
+
+بصراحة وبدون إحراج وبدون مقابل. فقط إستمتع بما صنع في البحرين 🇧🇭 وبكل حب ♥️.
+
+
+
+### Based on => PHP hello world for Cloudflare Workers
 
 Your PHP code in [index.php](https://github.com/cloudflare/php-worker-hello-world/blob/master/index.php), running on Cloudflare Workers
 
